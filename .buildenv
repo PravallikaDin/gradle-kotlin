@@ -1,2 +1,3 @@
 BP_JVM_TYPE=JDK
 BP_JVM_VERSION=8.*
+BP_GRADLE_BUILT_ARTIFACT=build/distributions/*.zip
